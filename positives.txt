@@ -1,0 +1,22 @@
+positive_images/.DS_Store
+positive_images/IMG_3890.JPG
+positive_images/IMG_3892.JPG
+positive_images/IMG_3896.JPG
+positive_images/IMG_3897.JPG
+positive_images/IMG_3899.JPG
+positive_images/IMG_3900.JPG
+positive_images/IMG_3906.JPG
+positive_images/IMG_3907.JPG
+positive_images/IMG_3908.JPG
+positive_images/IMG_3910.JPG
+positive_images/IMG_3913.JPG
+positive_images/IMG_3914.JPG
+positive_images/IMG_3915.JPG
+positive_images/Photo on 7-6-17 at 3.31 PM #2.jpg
+positive_images/Photo on 7-6-17 at 3.31 PM #3.jpg
+positive_images/Photo on 7-6-17 at 3.31 PM #4.jpg
+positive_images/Photo on 7-6-17 at 3.31 PM.jpg
+positive_images/Photo on 7-6-17 at 3.32 PM #2.jpg
+positive_images/Photo on 7-6-17 at 3.32 PM #3.jpg
+positive_images/Photo on 7-6-17 at 3.32 PM #4.jpg
+positive_images/Photo on 7-6-17 at 3.32 PM.jpg
